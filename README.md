@@ -15,7 +15,7 @@ All of the solutions in this repo were timed during each attempt, so not all of 
 # Important Note (2025)
 - In 2025, due to rates of student withdrawals and failures, the boundary for a F grade has been adjusted downward from 50% to 45%. (A is still kept at 80%)
 - Grader Exam 1, 2 Redemption: Student who score below the maximum on exam 1, 2 have a redemption opportunity on the subsequent grader exam. This involves solving a similar problem set to fix or replace the initial score.
-- **A perfect score on all three Grader Exam (1, 2, 3) automatically secures a final course grade of A**, regradless of performance in the attendance check, homework submission, final project, or extra credit (exam 1, 2, 3's scores add up to 80% of the final grade).
+- **A perfect score on all three Grader Exam automatically secures a final course grade of A**, regradless of performance in the attendance check, homework submission, final project, or extra credit (exam 1, 2, 3 scores add up to 80% of the final grade).
 
 # Acknowledgement
 [P'Ocean Notion](https://www.notion.so/1e47691fe23e803597aed4a7a5cd3973?v=1e47691fe23e801b8480000c34669dd7)
