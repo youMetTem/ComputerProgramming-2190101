@@ -8,6 +8,7 @@ In 2024, seniors either had midterms and a final, or just three exams (with no m
 - 03_Midterm_2023: Problems and Answers to 2023 Midterm exam
 - 04_Exam2_2024: Problems and Answers to 2024 Exam2
 - 05_Exam3_TH_2022: Problems and Answers to **Thai program** 2022 Exam3
+- 06_FinalProject_ParrotTalkingDiscordBot: My own final project (10% of the grade)
 
 All of the solutions in this repo were timed during each attempt, so not all of the code is well-written or fully optimized. It was written in a rushed, speedrun manner, so don't expect it to have the lowest possible time complexity.
 
