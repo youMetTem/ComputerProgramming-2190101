@@ -1,5 +1,5 @@
 # TemtemComProg
-**temtem's speedrun version of comprog solution** (NANO 21's section), but don't copy me seriously.
+**temtem's speedrun version of comprog solution** (NANO 21's section), but don't copy me seriously :(
 
 In 2024, seniors either had midterms and a final, or just three exams (with no midterm or final). In 2025, it's only the latter.
 - **00_GraderSolution_2025**: Answers to all 2025 grader problems
